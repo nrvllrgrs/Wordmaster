@@ -1,0 +1,119 @@
+<root version="1"">
+	<word value="cubbyhole" challenge="2">
+		<definition type="noun" value="a small compartment, open at one end." />
+		<definition type="noun" value="any small enclosed area that confines comfortably." />
+		<definition type="noun" value="a small snug place (as for hiding or storage)." />
+	</word>
+	<word value="throb" challenge="2">
+		<definition type="verb" value="to beat or pulse quickly and strongly." />
+		<definition type="noun" value="a strong beat or pulse." />
+	</word>
+	<word value="vicious" challenge="2">
+		<definition type="adjective" value="wicked; evil." />
+		<definition type="adjective" value="likely to be cruel or violent; fierce." />
+		<definition type="adjective" value="dangerously aggressive." />
+	</word>
+	<word value="shield" challenge="2">
+		<definition type="noun" value="a piece of armor worn or carried on the arm to protect against blows from weapons." />
+		<definition type="noun" value="a someone or something that gives protection." />
+		<definition type="verb" value="to protect." />
+		<analogy value="attack:protection::sword:" />
+	</word>
+	<word value="entangle" challenge="2">
+		<definition type="verb" value="to cause to be snarled or tangled." />
+		<definition type="verb" value="to wrap or twist together." />
+		<analogy value="mit:catch::vine:" />
+	</word>
+	<word value="catty" challenge="2">
+		<definition type="adjective" value="spiteful." />
+		<definition type="adjective" value="catlike, resembling a cat." />
+	</word>
+	<word value="nook" challenge="2">
+		<definition type="noun" value="a corner of a room or a small area set off from a main room." />
+		<definition tpe="noun" value="a secluded or sheltered place or part." /> 
+	</word>
+	<word value="collapse" challenge="2">
+		<definition type="verb" value="to fall down or in; give way." />
+		<definition type="verb" value="to stop working or end suddenly; fail." />
+		<definition type="verb" value="to suddenly lose strength or health because of disease or exhaustion." />
+		<definition type="noun" value="a sudden falling down or in." />
+		<analogy value="rise:fall::build up:" />
+	</word>
+	<word value="disorderly" challenge="2">
+		<definition type="adjective" value="not orderly or neat." />
+		<definition type="adjective" value="out of control." />
+		<analogy value="tidy:messy::orderly:" />
+	</word>
+	<word value="busybody" challenge="2">
+		<definition type="noun" value="someone who always pries into other people's lives and affairs." />
+	</word>
+	<word value="enclose" challenge="2">
+		<definition type="verb" value="to close in or shut in with walls or a container." />
+		<definition type="verb" value="to include inside or with." />
+		<definition type="verb" value="to include along with something else in a package or envelope." />
+	</word>
+	<word value="prompt" challenge="2">
+		<definition type="verb" value="to cause to act." />
+		<definition type="verb" value="to assist by providing forgotten words in theater, radio, and television." />
+		<definition type="adjective" value="done immediately and without pause." />
+		<definition type="adjective" value="being ready and quick to act." />
+	</word>
+	<word value="outrage" challenge="2">
+		<definition type="noun" value="an act that causes a strong feeling of anger because of its violence or cruelty." />
+		<definition type="verb" value="to cause anger and shock in." />
+	</word>
+	<word value="startle" challenge="2">
+		<definition type="verb" value="to cause to move suddenly." />
+		<definition type="verb" value="to alarm suddenly; surprise." />
+		<analogy value="resturant:eat::haunted house:" />
+	</word>
+	<word value="nosy" challenge="2">
+		<definition type="adjective" value="showing too much interest in other people's activities." />
+	</word>
+	<word value="morsel" challenge="2">
+		<definition type="noun" value="a small piece that is the right size for one bite; bit." />
+		<analogy value="big:small::cake:" />
+	</word>
+	<word value="tarry" challenge="2">
+		<definition type="adjective" value="of, like, or covered with tar." />
+		<definition type="verb" value="to delay or be tardy or late in acting or doing" />
+		<definition type="verb" value="to linger in expectation" />
+		<definition type="verb" value="to abide or stay in or at a place" />
+	</word>
+	<word value="grooved" challenge="2">
+		<definition type="adjective" value="provided with or having a groove or grooves." />
+	</word>
+	<word value="tattletale" challenge="2">
+		<definition type="noun" value="a person who reveals secrets or informs on others." />
+		<analogy value="keep:reveal::confidante:" />
+	</word>
+	<word value="chill" challenge="2">
+		<definition type="noun" value="an unpleasant feeling of coldness." />
+		<definition type="verb" value="make cold." />
+		<definition type="verb" value="horrify or frighten." />
+		<analogy value="pleasant:unpleasant::warm:" />
+	</word>
+	<word value="slim" challenge="2">
+		<definition type="adjective" value="gracefully thin." />
+		<definition type="verb" value="make thinner." />
+		<analogy value="sumo wrestler:fat::ice skater:" />
+	</word>
+	<word value="notch" challenge="2">
+		<definition type="noun" value="a cut in an edge or object." />
+		<definition type="verb" value="to cut a notch in something." />
+	</word>
+	<word value="irk" challenge="2">
+		<definition type="verb" value="irritate; annoy." />
+	</word>
+	<word value="dowdy" challenge="2">
+		<definition type="adjective" value="not at all stylish; shabby or dull." />
+		<analogy value="modern:antique::fashionable:" />
+	</word>
+	<word value="cruelty" challenge="2">	
+		<definition type="noun" value="characteristic of causing pain or suffering." />
+		<analogy value="hero:villain::bravery:" />
+	</word>
+	<word value="drowsy" challenge="1">
+		<analogy value="morning:perky::evening:" />
+	</word>
+</root>
