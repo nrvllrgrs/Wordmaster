@@ -54,4 +54,15 @@
 	<question value="wood" quiz_id="17" />
 	<question value="put" quiz_id="17" />
 	<question value="push" quiz_id="17" />
+	<!-- QUIZ 18-->
+	<question value="ball" quiz_id="18" />
+	<question value="tall" quiz_id="18" />
+	<question value="small" quiz_id="18" />
+	<question value="walk" quiz_id="18" />
+	<question value="talk" quiz_id="18" />
+	<question value="salt" quiz_id="18" />
+	<question value="draw" quiz_id="18" />
+	<question value="straw" quiz_id="18" />
+	<question value="fault" quiz_id="18" />
+	<question value="launch" quiz_id="18" />
 </root>
