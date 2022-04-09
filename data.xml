@@ -1,4 +1,93 @@
 <root version="2">
+	<word value="omen" challenge="3">
+		<definition type="noun" value="something that is believed to be a sign of future good or evil." />
+	</word>
+	<word value="swivel" challenge="3">
+		<definition type="noun" value="a device that allows the object fastened or mounted to it to turn freely or pivot." />
+		<definition type="verb" value="to turn on as if on a pivot." />
+	</word>
+	<word value="blustery" challenge="3">
+		<definition type="adjective" value="noisy threats that are without meaning." />
+	</word>
+	<word value="souvenir" challenge="3">
+		<definition type="noun" value="something kept as a reminder of a place, event, or friendship; memento." />
+	</word>
+	<word value="chafe" challenge="3">
+		<definition type="verb" value="to abrade, irritate, or wear away by rubbing." />
+		<definition type="verb" value="to make warm by rubbing." />
+		<definition type="verb" value="to become annoyed as a result of repeated or constant irritation." />
+		<definition type="noun" value="rritation or vexation; annoyance." />
+	</word>
+	<word value="sluggish" challenge="3">
+		<definition type="adjective" value="moving slowly." />
+		<definition type="adjective" value="lazy or without energy." />
+	</word>
+	<word value="tundra" challenge="3">
+		<definition type="noun" value="one of the huge plains in the arctic regions." />
+	</word>
+	<word value="hoist" challenge="3">
+		<definition type="verb" value="to lift or haul up using a mechanical device." />
+		<definition type="noun" value="ropes and pulleys, or an elevator, used for lifting heavy or large loads." />
+	</word>
+	<word value="alert" challenge="3">
+		<definition type="adjective" value="watching carefully; quick to notice and act." />
+		<definition type="noun" value="a warning of possible danger or the time during which such a warning lasts." />
+		<definition type="verb" value="to warn or make aware." />
+	</word>
+	<word value="spat" challenge="3">
+		<definition type="noun" value="a short, slight quarrel." />
+		<definition type="verb" value="past tense of to force from the mouth." />
+	</word>
+	<word value="cringe" challenge="3">
+		<definition type="verb" value="to crouch or shrink back, usu. in fear or distaste; cower." />
+		<definition type="verb" value="to behave with servility; fawn." />
+	</word>
+	<word value="slovenly" challenge="3">
+		<definition type="adjective" value="careless or disgustingly dirty." />
+	</word>
+	<word value="tiff" challenge="3">
+		<definition type="noun" value="a minor disagreement or petty quarrel." />
+	</word>
+	<word value="lull" challenge="3">
+		<definition type="verb" value="to calm or cause to sleep." />
+		<definition type="noun" value="a calm, quiet period." />
+	</word>
+	<word value="slight" challenge="3">
+		<definition type="adjective" value="small in amount or degree." />
+		<definition type="adjective" value="not important; insignificant." />
+		<definition type="adjective" value="thin; slender." />
+	</word>
+	<word value="prairie" challenge="3">
+		<definition type="noun" value="a large area of fertile land covered with grass." />
+	</word>
+	<word value="stammer" challenge="3">
+		<definition type="verb" value="to speak in an anxious or uncertain way." />
+		<definition type="noun" value="a stammering manner of speech." />
+	</word>
+	<word value="trivial" challenge="3">
+		<definition type="adjective" value="not valuable or important; insignificant." />
+	</word>
+	<word value="debris" challenge="3">
+		<definition type="" value="" />
+	</word>
+	<word value="flutter" challenge="3">
+		<definition type="" value="" />
+	</word>
+	<word value="rapid" challenge="3">
+		<definition type="" value="" />
+	</word>
+	<word value="surf" challenge="3">
+		<definition type="" value="" />
+	</word>
+	<word value="mumur" challenge="3">
+		<definition type="" value="" />
+	</word>
+	<word value="rotate" challenge="3">
+		<definition type="" value="" />
+	</word>
+	<word value="stout" challenge="3">
+		<definition type="" value="" />
+	</word>
 	<word value="cubbyhole" challenge="2">
 		<definition type="noun" value="a small compartment, open at one end." />
 		<definition type="noun" value="any small enclosed area that confines comfortably." />
