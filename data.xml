@@ -1,4 +1,4 @@
-<root version="2">
+<root version="3">
 	<word value="omen" challenge="3">
 		<definition type="noun" value="something that is believed to be a sign of future good or evil." />
 	</word>
@@ -68,26 +68,41 @@
 		<definition type="adjective" value="not valuable or important; insignificant." />
 	</word>
 	<word value="debris" challenge="3">
-		<definition type="" value="" />
+		<definition type="noun" value="scattered pieces left after something has been destroyed." />
 	</word>
 	<word value="flutter" challenge="3">
-		<definition type="" value="" />
+		<definition type="verb" value="to wave rapidly back and forth or up and down." />
+		<definition type="verb" value="to fly with quick, light wing movements." />
+		<definition type="verb" value="to beat lightly and quickly." />
+		<definition type="noun" value="a quick, light, flapping movement." />
+		<definition type="noun" value="a state of excitement or fluster." />
 	</word>
 	<word value="rapid" challenge="3">
-		<definition type="" value="" />
+		<definition type="adjective" value="happening in a short or brief time." />
+		<definition type="adjective" value="moving quickly." />
+		<definition type="adjective" value="marked or distinguished by high speed." />
+		<definition type="noun" value="a part of a river or stream where the water moves very quickly." />
 	</word>
 	<word value="surf" challenge="3">
-		<definition type="" value="" />
+		<definition type="noun" value="ocean waves that come in from the sea and break on the shore." />
+		<definition type="verb" value="to ride on the waves of the sea." />
 	</word>
-	<word value="mumur" challenge="3">
-		<definition type="" value="" />
+	<word value="murmur" challenge="3">
+		<definition type="noun" value="a sound that is soft, muffled, and ongoing, like the sound made by quiet conversation." />
+		<definition type="verb" value="to make a soft, muffled, continuous sound." />
 	</word>
 	<word value="rotate" challenge="3">
-		<definition type="" value="" />
+		<definition type="verb" value="to cause to turn around on an axis." />
+		<definition type="verb" value="to replace according to planned cycles." />
+		<definition type="verb" value="to turn on or around a fixed point." />
+		<definition type="verb" value="to change in a certain order; take turns." />
 	</word>
 	<word value="stout" challenge="3">
-		<definition type="" value="" />
+		<definition type="adjective" value="having physical strength; sturdy; thick." />
+		<definition type="adjective" value="firm or full of courage." />
+		<definition type="adjective" value="having a thick or fat body." />
 	</word>
+	<!--
 	<word value="cubbyhole" challenge="2">
 		<definition type="noun" value="a small compartment, open at one end." />
 		<definition type="noun" value="any small enclosed area that confines comfortably." />
@@ -205,4 +220,5 @@
 	<word value="drowsy" challenge="1">
 		<analogy value="morning:perky::evening:" />
 	</word>
+	-->
 </root>
