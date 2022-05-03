@@ -121,5 +121,17 @@
 			<question value="fish" />
 			<question value="sheep" />
 		</quiz>
+		<quiz value="23">
+			<question value="farmer" />
+			<question value="teacher" />
+			<question value="baker" />
+			<question value="writer" />
+			<question value="dancer" />
+			<question value="visitor" />
+			<question value="actor" />
+			<question value="sailor" />
+			<question value="doctor" />
+			<question value="inventor" />
+		</quiz>
 	</grade>
 </root>
