@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<root version="15">
+<root version="16">
 	<grade value="2">
 		<quiz value="13">
 			<question value="hope" />
@@ -144,6 +144,18 @@
 			<question value="coldest" />
 			<question value="taller" />
 			<question value="tallest" />
+		</quiz>
+		<quiz value="25">
+			<question value="happy" />
+			<question value="lucky" />
+			<question value="funny" />
+			<question value="messy" />
+			<question value="rainy" />
+			<question value="slowly" />
+			<question value="neatly" />
+			<question value="likely" />
+			<question value="quickly" />
+			<question value="friendly" />
 		</quiz>
 	</grade>
 </root>
