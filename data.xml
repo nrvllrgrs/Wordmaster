@@ -1,8 +1,121 @@
-<root version="3">
-	<word value="omen" challenge="3">
+<root version="11">
+	<word value="orchard" challenge="4">
+		<definition type="noun" value="a piece of land planted with fruit or nut trees." />
+	</word>
+	<word value="shove" challenge="4">
+		<definition type="verb" value="to push in a rough way or without care." />
+		<definition type="verb" value="to push along with a steady pressure." />
+		<definition type="noun" value="an act of pushing." />
+	</word>
+	<word value="merry" challenge="4">
+		<definition type="adjective" value="cheerful and happy, or likely to be so." />
+	</word>
+	<word value="acorn" challenge="4">
+		<definition type="noun" value="the fruit of an oak tree." />
+	</word>
+	<word value="snip" challenge="4">
+		<definition type="verb" value="to cut or clip with short, quick strokes of scissors." />
+		<definition type="noun" value="the act of snipping or the sound produced by this." />
+		<definition type="verb" value="a small piece that has been cut off by snipping." />
+	</word>
+	<word value="tender" challenge="4">
+		<definition type="adjective" value="easily chewed or crushed; not tough; soft." />
+		<definition type="adjective" value="showing love or kindness in a gentle way." />
+		<definition type="adjective" value="easily hurt when touched; sore; sensitive." />
+		<definition type="adjective" value="not strong; delicate." />
+	</word>
+	<word value="boulder" challenge="4">
+		<definition type="noun" value="a large, rounded rock." />
+	</word>
+	<word value="snarl" challenge="4">
+		<definition type="verb" value="to growl and show teeth in a threatening or vicious way." />
+		<definition type="verb" value="to speak sharply with anger or menace." />
+		<definition type="noun" value="an angry or vicious growl." />
+	</word>
+	<word value="firm" challenge="4">
+		<definition type="adjective" value="hard or solid when pressed; not soft." />
+		<definition type="adjective" value="not easily changed by outside forces or pressures; steady." />
+		<definition type="noun" value="a business started by two or more people." />
+	</word>
+	<word value="thicket" challenge="4">
+		<definition type="noun" value="a thick patch of shrubs, bushes, or small trees." />
+	</word>
+	<word value="hack" challenge="4">
+		<definition type="verb" value="to cut or chop with heavy blows." />
+		<definition type="verb" value="to clear by chopping out anything that blocks the way." />
+		<definition type="verb" value="to give out short, harsh coughs." />
+	</word>
+	<word value="rigid" challenge="4">
+		<definition type="adjective" value="difficult or impossible to bend; stiff." />
+		<definition type="adjective" value="firmly in place; not changing." />
+	</word>
+	<word value="ladle" challenge="4">
+		<definition type="noun" value="a spoon with a long handle and a deep bowl used for serving liquids such as soup or punch." />
+		<definition type="verb" value="to serve with a ladle." />
+	</word>
+	<word value="tangle" challenge="4">
+		<definition type="verb" value="to mix or twist into a confused mass." />
+		<definition type="verb" value="to involve in a complicated or confused situation; entangle." />
+		<definition type="verb" value="to be or become mixed up in a confused mass." />
+		<definition type="noun" value="a confused, mixed up mass." />
+		<definition type="noun" value="a complicated or confusing condition or situation." />
+	</word>
+	<word value="snug" challenge="4">
+		<definition type="adjective" value="small and comfortable; cozy." />
+		<definition type="adjective" value="having a close fit; slightly tight." />
+	</word>
+	<word value="injury" challenge="4">
+		<definition type="noun" value="damage or wrong that causes physical or mental pain or hardship." />
+		<definition type="noun" value="a particular wound or other physical problem caused by damage, such as a cut, a broken bone, or a burn." />
+	</word>
+	<word value="veil" challenge="4">
+		<definition type="noun" value="a thin piece of fabric or net worn over the face, head, or shoulders, or over some combination of these." />
+		<definition type="noun" value="something that hides or separates." />
+	</word>
+	<word value="sulky" challenge="4">
+		<definition type="adjective" value="in a sullen, bad-tempered mood, esp. for no good reason." />
+		<definition type="adjective" value="given to such moods." />
+		<definition type="adjective" value="unpleasant or overcast." />
+		<definition type="noun" value="a light horse-drawn carriage with two wheels that is made to carry one person." />
+	</word>
+	<word value="utensil" challenge="4">
+		<definition type="noun" value="a device, instrument, or container used in a kitchen." />
+	</word>
+	<word value="trample" challenge="4">
+		<definition type="verb" value="to step on in a heavy or noisy way; to crush with the feet." />
+		<definition type="verb" value="to step on or with a heavy, noisy, crushing step." />
+		<definition type="verb" value="to crush, destroy, or extinguish by or as if by treading underfoot." />
+		<definition type="noun" value="the act or sound of trampling." />
+	</word>
+	<word value="limp" challenge="4">
+		<definition type="verb" value="to walk in an uneven, difficult way because of a lame or injured leg or foot." />
+		<definition type="noun" value="an uneven, lame way of walking." />
+		<definition type="adjective" value="not stiff or firm." />
+	</word>
+	<word value="remnant" challenge="4">
+		<definition type="noun" value="a quantity, piece, or part that is left over or remains." />
+		<definition type="adjective" value="residual or leftover; remaining." />
+	</word>
+	<word value="scowl" challenge="4">
+		<definition type="verb" value="to make an angry frown." />
+		<definition type="noun" value="an act or instance of frowning in an angry way." />
+	</word>
+	<word value="compact" challenge="4">
+		<definition type="adjective" value="firmly packed together; dense." />
+		<definition type="adjective" value="taking up a small amount of space." />
+		<definition type="adjective" value="shortened, but still containing what is most important." />
+		<definition type="verb" value="to pack closely and tightly together." />
+		<definition type="noun" value="a small case that contains face powder and a mirror." />
+	</word>
+	<word value="spatula" challenge="4">
+		<definition type="noun" value="a cooking tool used for spreading or mixing." />
+	</word>
+	<!-- -->
+	<!--
+	<word value="omen" challenge="4">
 		<definition type="noun" value="something that is believed to be a sign of future good or evil." />
 	</word>
-	<word value="swivel" challenge="3">
+	<word value="swivel" challenge="4">
 		<definition type="noun" value="a device that allows the object fastened or mounted to it to turn freely or pivot." />
 		<definition type="verb" value="to turn on as if on a pivot." />
 	</word>
@@ -102,6 +215,7 @@
 		<definition type="adjective" value="firm or full of courage." />
 		<definition type="adjective" value="having a thick or fat body." />
 	</word>
+	-->
 	<!--
 	<word value="cubbyhole" challenge="2">
 		<definition type="noun" value="a small compartment, open at one end." />
