@@ -265,5 +265,15 @@
 			<question value="tow" />
 			<question value="white" />
 		</quiz>
+		<quiz value="36">
+			<question value="handle" />
+			<question value="needle" />
+			<question value="triple" />
+			<question value="tackle" />
+			<question value="bicycle" />
+			<question value="terrible" />
+			<question value="fable" />
+			<question value="gentle" />
+		</quiz>
 	</grade>
 </root>
