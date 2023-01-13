@@ -1,4 +1,113 @@
-<root version="11">
+<root version="12">
+	<word value="avalanche" challenge="5">
+		<definition type="noun" value="the sudden rush of a large amount of snow, ice, or rocks down a mountain"/>
+		<definition type="noun" value="anything that comes suddenly and in large amounts"/>
+	</word>
+	<word value="shrivel" challenge="5">
+		<definition type="verb" value="to cause to wrinkle or become smaller"/>
+	</word>
+	<word value="jagged" challenge="5">
+		<definition type="adjective" value="having points that are sharp and uneven"/>
+	</word>
+	<word value="frown" challenge="5">
+		<definition type="verb" value="to wrinkle the forehead to show anger, unhappiness, or confusion"/>
+		<definition type="verb" value="to disapprove" />
+		<definition type="noun" value="a wrinkling of the face that shows anger, unhappiness, or confusion" />
+	</word>
+	<word value="smart" challenge="5">
+		<definition type="adjective" value="clever; intelligent" />
+		<definition type="adjective" value="of the latest fashion" />
+		<definition type="adjective" value="showing no respect; rude" />
+		<definition type="adjective" value="active or quick" />
+		<definition type="verb" value="to cause or feel sharp but not serious pain" />
+	</word>
+	<word value="harsh" challenge="5">
+		<definition type="adjective" value="rough or not pleasing to the eyes, ears, or other senses"/>
+		<definition type="adjective" value="rough and not pleasing in action or result"/>
+		<definition type="adjective" value="severe or strict"/>
+	</word>
+	<word value="deluge" challenge="5">
+		<definition type="noun" value="a flood caused by a great amount of water"/>
+		<definition type="noun" value="a huge amount"/>
+		<definition type="verb" value="to flood with water"/>
+		<definition type="verb" value="to flood with a large amount of something"/>
+	</word>
+	<word value="wither" challenge="5">
+		<definition type="verb" value="to dry up or wilt"/>
+		<definition type="verb" value="to cause to feel embarrassed"/>
+	</word>
+	<word value="rugged" challenge="5">
+		<definition type="adjective" value="having a surface that is rough and broken"/>
+		<definition type="adjective" value="strong and rough looking"/>
+		<definition type="adjective" value="strong or sturdy"/>
+		<definition type="adjective" value="causing hardship or strain; harsh" />
+	</word>
+	<word value="blizzard" challenge="5">
+		<definition type="noun" value="a heavy snowstorm that lasts for a long time"/>
+	</word>
+	<word value="sag" challenge="5">
+		<definition type="verb" value="to sink, hang, or bend downward in the middle"/>
+		<definition type="verb" value="to grow weak or become less firm"/>
+	</word>
+	<word value="dainty" challenge="5">
+		<definition type="adjective" value="small, pretty, and delicate"/>
+	</word>
+	<word value="gasp" challenge="5">
+		<definition type="noun" value="a sudden, brief taking in of air through the mouth, because of surprise or difficulty breathing"/>
+		<definition type="verb" value="to breathe in gasps; struggle for breath; pant"/>
+	</word>
+	<word value="absorb" challenge="5">
+		<definition type="verb" value="to take in or soak up"/>
+		<definition type="verb" value="to hold the full attention of"/>
+	</word>
+	<word value="vast" challenge="5">
+		<definition type="adjective" value="very large in size or area"/>
+		<definition type="adjective" value="very large in number or amount"/>
+	</word>
+	<word value="grin" challenge="5">
+		<definition type="verb" value="to smile broadly, so that the teeth are showing"/>
+		<definition type="noun" value="a wide smile that shows the teeth"/>
+	</word>
+	<word value="chomp" challenge="5">
+		<definition type="verb" value="to chew or bite on something, usu. heavily, vigorously or noisily"/>
+	</word>
+	<word value="delicate" challenge="5">
+		<definition type="adjective" value="pleasing to the senses in a light, soft, or mild way"/>
+		<definition type="adjective" value="easy to break or hurt"/>
+		<definition type="adjective" value="requiring care and gentle handling"/>
+		<definition type="adjective" value="very fine; intricate; skillfully made"/>
+		<definition type="adjective" value="in a way that is considerate and gentle"/>
+	</word>
+	<word value="rubble" challenge="5">
+		<definition type="noun" value="pieces of broken rock, brick, or other material"/>
+	</word>
+	<word value="exhale" challenge="5">
+		<definition type="verb" value="to breathe out; give out breath or vapor"/>
+	</word>
+	<word value="spacious" challenge="5">
+		<definition type="adjective" value="having plenty of space"/>
+	</word>
+	<word value="gulp" challenge="5">
+		<definition type="verb" value="to quickly draw in a breath; to gasp"/>
+		<definition type="verb" value="to take large swallows of; drink or eat eagerly or rapidly"/>
+		<definition type="noun" value="a large mouthful or swallow" />
+	</word>
+	<word value="shed" challenge="5">
+		<definition type="noun" value="a small building used for storage or shelter"/>
+		<definition type="verb" value="to cast off, take off, or let fall"/>
+		<definition type="verb" value="to let something flow out" />
+		<definition type="verb" value="to stop something from getting through" />
+		<definition type="verb" value="to send out or give off" />
+	</word>
+	<word value="choppy" challenge="5">
+		<definition type="adjective" value="of a body of water, full of short, rough waves"/>
+		<definition type="adjective" value="characterized by abrupt transitions, inconsistent style, or uneven quality"/>
+		<definition type="adjective" value="of the wind, shifting unexpectedly; variable"/>
+	</word>
+	<word value="alcove" challenge="5">
+		<definition type="noun" value="a partly enclosed area of a room"/>
+	</word>
+	<!--
 	<word value="orchard" challenge="4">
 		<definition type="noun" value="a piece of land planted with fruit or nut trees." />
 	</word>
@@ -110,6 +219,7 @@
 	<word value="spatula" challenge="4">
 		<definition type="noun" value="a cooking tool used for spreading or mixing." />
 	</word>
+	-->
 	<!-- -->
 	<!--
 	<word value="omen" challenge="4">
