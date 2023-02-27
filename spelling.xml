@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<root version="34">
+<root version="35">
 	<grade value="2">
 		<quiz value="13">
 			<question value="hope" />
@@ -320,6 +320,16 @@
 			<question value="found" />
 			<question value="brown" />
 			<question value="flower" />
+		</quiz>
+		<quiz value="41">
+			<question value="emperor" />
+			<question value="character" />
+			<question value="visitor" />
+			<question value="inventor" />
+			<question value="soldier" />
+			<question value="actors" />
+			<question value="painters" />
+			<question value="players" />
 		</quiz>
 	</grade>
 </root>
